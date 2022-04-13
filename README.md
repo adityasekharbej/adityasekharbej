@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="30px">, I'm Biswajit Das</h1>
+<h1 align="center">Hi <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="30px">, I'm Aditya Sekhar Bej</h1>
 
  
 
@@ -14,13 +14,13 @@
 
  
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/biswajit-das-648902203/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-sekhar-bej/)
 
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://biswajitdasportfolio.netlify.app/)
 
 - 😄 Pronouns: He/His
 
-- 📫 How to reach me **dasb1283@gmail.com**
+- 📫 How to reach me **adityasekharbej007@gmail.com**
 
 - ⚡ Fun fact **Time, Tide and JavaScript waits for none.**
 
