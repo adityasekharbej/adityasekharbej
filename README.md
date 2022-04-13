@@ -16,15 +16,12 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-sekhar-bej/)
 
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://biswajitdasportfolio.netlify.app/)
-
 - 😄 Pronouns: He/His
 
 - 📫 How to reach me **adityasekharbej007@gmail.com**
 
 - ⚡ Fun fact **Time, Tide and JavaScript waits for none.**
 
-- 📑 Know More About [Me](https://drive.google.com/file/d/1M4rW3s13FetK9tcvSTzr50MOwiJ5WNge/view?usp=sharing)
 
  
 
@@ -32,23 +29,9 @@
 
 ### Languages & Tech
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" width="130px" height="40px"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" width="130px" height="40px"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" width="130px" height="40px"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" width="130px" height="40px"/> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" width="130px" height="40px"/> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" width="130px" height="40px"/> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" width="130px" height="40px"/>
 
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" width="130px" height="40px"/>
-
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" width="130px" height="40px"/>
-
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" width="130px" height="40px"/>
-
-<img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" width="130px" height="40px"/>
-
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" width="130px" height="40px"/>
-
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" width="130px" height="40px"/>
-
-<img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" width="130px" height="40px"/>
-
-<img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" width="130px" height="40px"/>
+<img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" width="130px" height="40px"/> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" width="130px" height="40px"/> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" width="130px" height="40px"/> <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" width="130px" height="40px"/> <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" width="130px" height="40px"/>
 
  
 
@@ -62,13 +45,15 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adityasekharbej&show_icons=true&locale=en&layout=compact&theme=radical" alt="adityasekharbej" /></p>
 
+
+
 <br/>
 
  
 
  
 
-[![Biswajit's github activity graph](https://activity-graph.herokuapp.com/graph?username=BiswajitDas1802&theme=react-dark)](https://github.com/BiswajitDas1802/github-readme-activity-graph)
+[![Aditya's's github activity graph](https://activity-graph.herokuapp.com/graph?username=adityasekharbej&theme=react-dark)](https://github.com/adityasekharbej/github-readme-activity-graph)
 
  
 
