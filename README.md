@@ -4,17 +4,14 @@
 
 <div align='center'>
 
-<img src="https://camo.githubusercontent.com/f1f2bc6e7ec110b34bab4ec55aa5c93ebae552ae011f5756bd7b7f783d627a6d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966" alt="code"/>
+<img src="https://camo.githubusercontent.com/f1f2bc6e7ec110b34bab4ec55aa5c93ebae552ae011f5756bd7b7f783d627a6d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966" alt="code" width="400px"/>
 
    </div>
 
  
 # 💫 About Me:
-<h3 align="center">A passionate, hardworking and highly efficient web developer with sound knowledge in Full Stack technology and hands-on practice in Data Structure and Algorithms.</h3>
+<h3>A passionate, hardworking and highly efficient web developer with sound knowledge in Full Stack technology and hands-on practice in Data Structure and Algorithms.</h3>
 
- 
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-sekhar-bej/)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat&logo=google-chrome&logoColor=white)](https://adityasekharbej-portfolio.netlify.app)
 
 - 😄 Pronouns: He/His
@@ -46,7 +43,7 @@
 
  
 
-[![Aditya's's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=adityasekharbej&theme=react-dark)](https://github.com/adityasekharbej/github-readme-activity-graph)
+[![Aditya's's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=adityasekharbej&theme=github-compact)](https://github.com/adityasekharbej/github-readme-activity-graph)
 
  
 
